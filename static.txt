@@ -1,1 +1,2 @@
 public static
+Hello koushik is added to Static file 
